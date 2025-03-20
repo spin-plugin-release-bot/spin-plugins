@@ -2,33 +2,33 @@
   "name": "terminal",
   "description": "A plugin to provide terminal for the toolchain required by spin app",
   "homepage": "https://github.com/rajatjindal/spin-plugin-terminal",
-  "version": "canary",
+  "version": "v0.0.5",
   "spinCompatibility": ">=2.3.1",
   "license": "Apache-2.0",
   "packages": [
     {
       "os": "linux",
       "arch": "amd64",
-      "url": "https://github.com/rajatjindal/spin-plugin-terminal/releases/download/canary/spin-plugin-terminal-canary-linux-amd64.tar.gz",
-      "sha256": "0e4da9bad345c1e4da78fccbd2b86a2f1dc877c3143183f6d4f09a3acf74712e"
+      "url": "https://github.com/rajatjindal/spin-plugin-release-bot-test-plugin/releases/download/v0.0.5/spin-plugin-terminal-linux-amd64.tar.gz",
+      "sha256": "b47e5b796cba977b5ce0e91bd4cd915d247308a2fcff743c20103780181a3b31"
     },
     {
       "os": "linux",
       "arch": "aarch64",
-      "url": "https://github.com/rajatjindal/spin-plugin-terminal/releases/download/canary/spin-plugin-terminal-canary-linux-arm64.tar.gz",
-      "sha256": "9cd61d6ec0f986101ef66dbb230879bfc3d338828b54826e3b2ba6cd3064ee9d"
+      "url": "https://github.com/rajatjindal/spin-plugin-release-bot-test-plugin/releases/download/v0.0.5/spin-plugin-terminal-linux-arm64.tar.gz",
+      "sha256": "45061a92409b1a9cc35d5e5c67879feff91302d56bb0c2a5f7c3ae58d86fd5b6"
     },
     {
       "os": "macos",
       "arch": "aarch64",
-      "url": "https://github.com/rajatjindal/spin-plugin-terminal/releases/download/canary/spin-plugin-terminal-canary-darwin-arm64.tar.gz",
-      "sha256": "039323398a744c769046ae13c4d3167d12c61a7ad6f72c71934e14aa76dc52a5"
+      "url": "https://github.com/rajatjindal/spin-plugin-release-bot-test-plugin/releases/download/v0.0.5/spin-plugin-terminal-darwin-arm64.tar.gz",
+      "sha256": "a8734c7fc4de471824c89da3369377eec6e81a8bed581483296a9d7741ce8eb6"
     },
     {
       "os": "macos",
       "arch": "amd64",
-      "url": "https://github.com/rajatjindal/spin-plugin-terminal/releases/download/canary/spin-plugin-terminal-canary-darwin-amd64.tar.gz",
-      "sha256": "079bc52d7029d7aab17c698081c258bccf0a80c00295a96aa5697ba420af1e53"
+      "url": "https://github.com/rajatjindal/spin-plugin-release-bot-test-plugin/releases/download/v0.0.5/spin-plugin-terminal-darwin-amd64.tar.gz",
+      "sha256": "18b519c19c990bf4e2f2ca4eea38ebaf3edba59b2387deba006bf8335c905f29"
     }
   ]
 }
