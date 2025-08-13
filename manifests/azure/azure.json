@@ -1,46 +1,46 @@
 {
-    "name": "azure",
-    "description": "A plugin to manage Azure Kubernetes Service (AKS) with workload identity.",
-    "homepage": "https://github.com/mossaka/spin-plugin-azure",
-    "version": "0.1.0",
-    "spinCompatibility": ">=2.3.1",
-    "license": "Apache-2.0",
-    "packages": [
-        {
-            "os": "linux",
-            "arch": "amd64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.1.0/spin-plugin-azure-0.1.0-linux-amd64.tar.gz",
-            "sha256": "dc359cab7e114ef56b8ca70f3177f53deadb0060c239a5686be8688de7c695de"
-        },
-        {
-            "os": "linux",
-            "arch": "aarch64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.1.0/spin-plugin-azure-0.1.0-linux-arm64.tar.gz",
-            "sha256": "6cba5f2c20d77c71b6375fffc9f46dbc40768586be4f9c8f120b1bca0801c957"
-        },
-        {
-            "os": "macos",
-            "arch": "amd64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.1.0/spin-plugin-azure-0.1.0-darwin-amd64.tar.gz",
-            "sha256": "f6117f00ea9adf35ceb6ce9b29207129c28d53621a9a9a7bad38008a17281779"
-        },
-        {
-            "os": "macos",
-            "arch": "aarch64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.1.0/spin-plugin-azure-0.1.0-darwin-arm64.tar.gz",
-            "sha256": "79a73e10d7d8d258eb226578b7de371a9055f6215a94e1df05aea20504590465"
-        },
-        {
-            "os": "windows",
-            "arch": "amd64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.1.0/spin-plugin-azure-0.1.0-windows-amd64.tar.gz",
-            "sha256": "0e85fa648382dc1b1b638dab90a8d5a27fcdda52f049e1d499d775c9867babec"
-        },
-        {
-            "os": "windows",
-            "arch": "aarch64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.1.0/spin-plugin-azure-0.1.0-windows-arm64.tar.gz",
-            "sha256": "a7fe0b944d614e5b29f26bc933f18403107a4c279662ef456263785c6a475fd3"
-        }        
-    ]
+  "name": "azure",
+  "description": "A plugin to manage Azure Kubernetes Service (AKS) with workload identity.",
+  "homepage": "https://github.com/rajatjindal/spin-plugin-azure",
+  "version": "0.0.20",
+  "spinCompatibility": ">=2.3.1",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/rajatjindal/spin-plugin-azure/releases/download/v0.0.20/spin-plugin-azure-0.0.20-linux-amd64.tar.gz",
+      "sha256": "1aedbe784517f2d0cba1e939eee9bbe81ad5b2a08f55e154afa09c10ffca3263"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/rajatjindal/spin-plugin-azure/releases/download/v0.0.20/spin-plugin-azure-0.0.20-linux-arm64.tar.gz",
+      "sha256": "563aa789f342c74fb254e39923d0cd7c95af736d5c54fdf3b1e3be909713ba84"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/rajatjindal/spin-plugin-azure/releases/download/v0.0.20/spin-plugin-azure-0.0.20-darwin-arm64.tar.gz",
+      "sha256": "7efa5daff0fa441758e3be1cf2b6cf0f0082c1ce3862973c7f2684875d7da86c"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/rajatjindal/spin-plugin-azure/releases/download/v0.0.20/spin-plugin-azure-0.0.20-darwin-amd64.tar.gz",
+      "sha256": "eac1bfdb851e5838547f318aab45bb5f24beb3c63348cb2f2c776585c807f727"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/rajatjindal/spin-plugin-azure/releases/download/v0.0.20/spin-plugin-azure-0.0.20-windows-amd64.tar.gz",
+      "sha256": "530e554280925ed81c46b52af08773e668db51639b24c34bbd4d553a86d08420"
+    },
+    {
+      "os": "windows",
+      "arch": "aarch64",
+      "url": "https://github.com/rajatjindal/spin-plugin-azure/releases/download/v0.0.20/spin-plugin-azure-0.0.20-windows-arm64.tar.gz",
+      "sha256": "e83d0d904f7d804aaf7b5c5be80236b4fa6ced1e5ece7d1468149c1f040576b0"
+    }
+  ]
 }
