@@ -1,46 +1,46 @@
 {
-    "name": "azure",
-    "description": "A plugin to manage Azure Kubernetes Service (AKS) with workload identity.",
-    "homepage": "https://github.com/mossaka/spin-plugin-azure",
-    "version": "0.1.0",
-    "spinCompatibility": ">=2.3.1",
-    "license": "Apache-2.0",
-    "packages": [
-        {
-            "os": "linux",
-            "arch": "amd64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.1.0/spin-plugin-azure-0.1.0-linux-amd64.tar.gz",
-            "sha256": "dc359cab7e114ef56b8ca70f3177f53deadb0060c239a5686be8688de7c695de"
-        },
-        {
-            "os": "linux",
-            "arch": "aarch64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.1.0/spin-plugin-azure-0.1.0-linux-arm64.tar.gz",
-            "sha256": "6cba5f2c20d77c71b6375fffc9f46dbc40768586be4f9c8f120b1bca0801c957"
-        },
-        {
-            "os": "macos",
-            "arch": "amd64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.1.0/spin-plugin-azure-0.1.0-darwin-amd64.tar.gz",
-            "sha256": "f6117f00ea9adf35ceb6ce9b29207129c28d53621a9a9a7bad38008a17281779"
-        },
-        {
-            "os": "macos",
-            "arch": "aarch64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.1.0/spin-plugin-azure-0.1.0-darwin-arm64.tar.gz",
-            "sha256": "79a73e10d7d8d258eb226578b7de371a9055f6215a94e1df05aea20504590465"
-        },
-        {
-            "os": "windows",
-            "arch": "amd64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.1.0/spin-plugin-azure-0.1.0-windows-amd64.tar.gz",
-            "sha256": "0e85fa648382dc1b1b638dab90a8d5a27fcdda52f049e1d499d775c9867babec"
-        },
-        {
-            "os": "windows",
-            "arch": "aarch64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.1.0/spin-plugin-azure-0.1.0-windows-arm64.tar.gz",
-            "sha256": "a7fe0b944d614e5b29f26bc933f18403107a4c279662ef456263785c6a475fd3"
-        }        
-    ]
+  "name": "azure",
+  "description": "A plugin to manage Azure Kubernetes Service (AKS) with workload identity.",
+  "homepage": "https://github.com/rajatjindal/spin-plugin-releasetest",
+  "version": "0.0.9",
+  "spinCompatibility": ">=2.3.1",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/rajatjindal/spin-plugin-releasetest/releases/download/v0.0.9/releasetest-linux-amd64.tar.gz",
+      "sha256": "b54691cd83af0d9a78f07ca03522e0361605a99ad1d55e14759145db9de80a25"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/rajatjindal/spin-plugin-releasetest/releases/download/v0.0.9/releasetest-linux-arm64.tar.gz",
+      "sha256": "31db3f7f68dc8125249b0f2c6c7efb7d4dff70f3b3a70398ecec3502142e964b"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/rajatjindal/spin-plugin-releasetest/releases/download/v0.0.9/releasetest-darwin-arm64.tar.gz",
+      "sha256": "d034c3f05eb12a4272d8306dafb8942a042e07a25a1b54c85e070a5390cb9c2d"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/rajatjindal/spin-plugin-releasetest/releases/download/v0.0.9/releasetest-darwin-amd64.tar.gz",
+      "sha256": "68251c9570f32b14a2f5ebb8d5b09c382addf3c5f27665dbd8def812cf9d52e3"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/rajatjindal/spin-plugin-releasetest/releases/download/v0.0.9/releasetest-windows-amd64.tar.gz",
+      "sha256": "f9e42ec67739b42d4abfaa7e06dccc687d6917334972f29331df9042e3db2ac4"
+    },
+    {
+      "os": "windows",
+      "arch": "aarch64",
+      "url": "https://github.com/rajatjindal/spin-plugin-releasetest/releases/download/v0.0.9/releasetest-windows-arm64.tar.gz",
+      "sha256": "9043cfb18fe01ccf799ef1596fcb2bc96d962ac6abb5a8f88586925c6384735f"
+    }
+  ]
 }
