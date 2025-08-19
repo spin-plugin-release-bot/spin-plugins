@@ -10,31 +10,31 @@
       "os": "linux",
       "arch": "amd64",
       "url": "https://github.com/vdice/test-plugin/releases/download/plugin/v0.1.0-test/print-version-0.1.0-linux-amd64.tar.gz",
-      "sha256": "6f3ba30897cfa04619813bff1fb9b11d7c783a4efce34457836f4951c75f71d4"
+      "sha256": "86919f5aba781abf3bb15c5b1c3005df2b6994e3f49ddbc1fc71ce253183fd30"
     },
     {
       "os": "linux",
       "arch": "aarch64",
       "url": "https://github.com/vdice/test-plugin/releases/download/plugin/v0.1.0-test/print-version-0.1.0-linux-aarch64.tar.gz",
-      "sha256": "c0d1894c6bc5d209a1b9c9f1ddd504d004a418c4a5f7f90a22ac8b88373071f0"
+      "sha256": "d80fe8cfded66043fbf920f0120e405a1d1246feeaa6ace521b890875e361891"
     },
     {
       "os": "macos",
       "arch": "aarch64",
       "url": "https://github.com/vdice/test-plugin/releases/download/plugin/v0.1.0-test/print-version-0.1.0-macos-aarch64.tar.gz",
-      "sha256": "29f1b32694e4a744eaaa548bd0a3c5ec31364b4905aae8117051d17a7a343534"
+      "sha256": "3715c03c42965be0ab7dc903c7a43f0f602ae6a364d2aa8505a89bae9d6f36b4"
     },
     {
       "os": "macos",
       "arch": "amd64",
       "url": "https://github.com/vdice/test-plugin/releases/download/plugin/v0.1.0-test/print-version-0.1.0-macos-amd64.tar.gz",
-      "sha256": "e78dd63f959b1a3a92659bc1d59787da1128764d04948b7107cd7ee09e31a9d8"
+      "sha256": "c187abd9453fa36ee9667cfa2cc86b3cc8c55a3cc47f830ea4e70cc70a13d0a5"
     },
     {
       "os": "windows",
       "arch": "amd64",
       "url": "https://github.com/vdice/test-plugin/releases/download/plugin/v0.1.0-test/print-version-0.1.0-windows-amd64.tar.gz",
-      "sha256": "2e41d6ced9d540ab1c1a6ebbb57c954e60854b9c7feee7b25ce64810710df2dd"
+      "sha256": "5ef8d6e0ace84805847e212ad9d3927d92ff9ad08ad19d412a5151698b616dbb"
     }
   ]
 }
